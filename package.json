@@ -2,7 +2,7 @@
   "name": "microlearn",
   "version": "1.0.0",
   "description": "Microlearn, a website to learn more about STEM topcs in a fun way",
-  "main": "C:/Users/Jack/Documents/MicroCADE/src/server.js",
+  "main": "./src/server.js",
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src.serve.js"
